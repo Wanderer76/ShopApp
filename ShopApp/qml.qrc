@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>res/shop.svg</file>
+        <file>res/shopping-cart.svg</file>
+        <file>AppView.qml</file>
+        <file>res/pizza.svg</file>
+        <file>Delegate.qml</file>
+        <file>res/pizza1.svg</file>
+        <file>res/pizza2.svg</file>
+        <file>res/pizza3.svg</file>
+        <file>res/pizza4.svg</file>
+        <file>HomeFile.qml</file>
+        <file>res/bars.svg</file>
+        <file>InformationPanel.qml</file>
+        <file>res/about.png</file>
+        <file>res/menu.png</file>
+        <file>Cart.qml</file>
+        <file>CartDelegat.qml</file>
+    </qresource>
+</RCC>
